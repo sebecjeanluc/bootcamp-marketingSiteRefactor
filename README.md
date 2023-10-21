@@ -52,6 +52,7 @@ This is entirely a mock-up site for the bootcamp project. This compnay or its co
 ### Website Preview
 
 This preview shows at the width of 1080px
+[github preview page](https://sebecjeanluc.github.io/bootcamp-marketingSiteRefactor/)
 ![preview for this website](./assets/images/preview_1080.png)
 
 ##### Developer note
