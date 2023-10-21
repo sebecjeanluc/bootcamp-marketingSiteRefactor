@@ -17,6 +17,8 @@ This is entirely a mock-up site for the bootcamp project. This compnay or its co
 This preview shows at the width of 1080px
 ![preview for this website](./assets/images/preview_1080.png)
 
+Github page's preview is ![here](https://sebecjeanluc.github.io/bootcamp-marketingSiteRefactor/)
+
 ##### Developer's note
 
 This company website is not a responsive website for a tablet or a smartphone display. The code for the website supports the display that has the width of 1080px or above.
