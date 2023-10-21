@@ -1,17 +1,13 @@
-Add the more detail readme guide in the later commit:
+# Refactoring for the marketing company website'
 
-# Title
+## Description
 
-## Summary of what this website is
+This marketing website has some problems for HTML tags that do not follow the semantic structure of the HTML elements. This may have significant impacts on SEO for their domain and the web accessibility.
 
-a short description explaining the what, why, and how. What was your motivation?
+To solve these potential problems, this projects is here t help and fix their HTML element tags that work better in the SEO which follows the semantic HTML.
 
-Why did you build this project?
+From the SEO point of views, this website should be the responsible website because searcn engines evaluate the website's mobile display.
 
-(Note: The answer is not "Because it was a homework assignment.")
+### Developer's note
 
-What problem does it solve?
-
-What did you learn?
-
-What makes your project stand out?
+This company website is not a responsive website for a tablet or a smartphone display. The code for the website supports the display that has the width of 1080px or above.
